@@ -1,22 +1,11 @@
-<!-- Develop branch template -->
+<!-- Main branch template -->
 
 ## Descrição
 
 [XYZ-0000](https://company.com/browse/XYZ-0000): Título da task
 
-- Título do item: \
-descrição do item ou screenshot que facilite o entendimento do `merge request`
+## PR's relacionados
 
-## Checklist
-
-Itens alterados/incluídos neste `merge request`:
-
-- [x] Criado novo componente `ExemploComponente`
-- [x] Alterado componente `ExemploComponente`
-- [x] Corrigido o bug no componente `ComponenteBugado`
-
-## Critérios de Aceite
-
-- [x] Comportamento esperados após o  `merge request`
-
-_Incluir a sessão Critérios de Aceite apenas se for relevante para o `merge request`_
+- #1 - Description
+- #2 - Description
+- #3 - Description
