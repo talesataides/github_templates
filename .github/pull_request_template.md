@@ -2,7 +2,7 @@
 
 ## Descrição
 
-[SJC-xxxx](https://arcotecnologia.atlassian.net/browse/LMS-xxxx): título da task
+[XYZ-0000](https://company.com/browse/XYZ-0000): Título da task
 
 - Título do item: \
 descrição do item ou screenshot que facilite o entendimento do `merge request`
