@@ -5,4 +5,8 @@
 ## PR's relacionados
 
 - #1 - Description
+<<<<<<< HEAD
 - #2 - Description
+=======
+- #2 - Description
+>>>>>>> feat: add multiple templates
