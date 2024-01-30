@@ -1,5 +1,3 @@
-<!-- Develop branch template -->
-
 ## Descrição
 
 [XYZ-0000](https://company.com/browse/XYZ-0000): Título da task
