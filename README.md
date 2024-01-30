@@ -38,11 +38,13 @@ A estrutura presente neste repositório aplica a [solução proposta nessa threa
 ## Como utilizar
 O diretório .github tem a seguinte estrutura:
 
+```
 .github
 ├── PULL_REQUEST_TEMPLATE
 │   ├── develop_pr_template.md
 │   └── main_pr_template.md
 └── pull_request_template.md 
+```
 
 1. Arquivo `pull_request_template.md`
   O template padrão, que deve dispôr os links para os templates secundários. É preciso que o usuário clique na tab "Preview" na interface do GitHub para visualizar os links clicáveis. Os links adicionam a URL atual o parâmetro "template" com o template "selecionado", modificando então a descrição atual do _pull request_ em andamento.
