@@ -2,8 +2,7 @@
 
 [XYZ-0000](https://company.com/browse/XYZ-0000): Título da task
 
-- Título do item: \
-descrição do item ou screenshot que facilite o entendimento do `merge request`
+- **Título do item:** Descrição do item ou screenshot que facilite o entendimento do `merge request`
 
 ## Checklist
 
@@ -15,6 +14,6 @@ Itens alterados/incluídos neste `merge request`:
 
 ## Critérios de Aceite
 
-- [x] Comportamento esperados após o  `merge request`
+- [x] Comportamento esperado após o `merge request`
 
 _Incluir a sessão Critérios de Aceite apenas se for relevante para o `merge request`_

@@ -1,8 +1,17 @@
 ## Descrição
 
-[SJC-xxxx](https://arcotecnologia.atlassian.net/browse/LMS-xxxx): título da task
+[Descreva brevemente as principais alterações introduzidas por este pull request.]
 
-## PR's relacionados
+## Tasks Relacionadas
 
-- #1 - Description
-- #2 - Description
+[Indique as tasks relacionadas a este pull request.]
+
+## Checklist
+
+- [ ] Adiciona feature X
+- [ ] Adiciona feature Y
+- [ ] Corrige bug Z
+
+## Notas Adicionais
+
+[Adicione quaisquer informações adicionais que você considere importante.]
